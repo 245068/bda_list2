@@ -1,0 +1,14 @@
+alice	crime	k=2		Js=0.062452326468344775
+alice	crime	k=4		Js=0.0027994958167403454
+alice	crime	k=7		Js=1.748129501433466E-5
+alice	crime	k=11	Js=0.0
+____________________________________________________
+hamlet	macbeth	k=2		Js=0.0754986603155701
+hamlet	macbeth	k=4		Js=0.0015740404407313235
+hamlet	macbeth	k=7		Js=7.972097658196313E-5
+hamlet	macbeth	k=11	Js=0.0
+____________________________________________________
+Oz	Ocult Chemistry	k=2		Js=0.04041583277740716
+Oz	Ocult Chemistry	k=2		Js=6.623198857866153E-4
+Oz	Ocult Chemistry	k=2		Js=0.0
+Oz	Ocult Chemistry	k=2		Js=0.0
